@@ -40,7 +40,7 @@ const Carousel = () => {
                 </div>
             </div>
             <div className="carousel-item" data-interval="4000">
-                <img src={ImgFour} className="d-block w-100 img-fluid" alt="photo of two pairs of shoes"/>
+                <img src={ImgFour} className="d-block w-100 img-fluid" alt="two pairs of shoes"/>
                 <div className="carousel-caption d-none d-sm-block ">
                     <h5 className="carouselTitle">Drive</h5>
                     <p className="carouselPara">Driven by a passion to know better with each iteration</p>
