@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/PortfolioKS/static/css/main.9a412d1c.chunk.css",
+    "main.js": "/PortfolioKS/static/js/main.5fbdf847.chunk.js",
+    "main.js.map": "/PortfolioKS/static/js/main.5fbdf847.chunk.js.map",
+    "runtime-main.js": "/PortfolioKS/static/js/runtime-main.3bb05034.js",
+    "runtime-main.js.map": "/PortfolioKS/static/js/runtime-main.3bb05034.js.map",
+    "static/js/2.99570f9b.chunk.js": "/PortfolioKS/static/js/2.99570f9b.chunk.js",
+    "static/js/2.99570f9b.chunk.js.map": "/PortfolioKS/static/js/2.99570f9b.chunk.js.map",
+    "index.html": "/PortfolioKS/index.html",
+    "static/css/main.9a412d1c.chunk.css.map": "/PortfolioKS/static/css/main.9a412d1c.chunk.css.map",
+    "static/js/2.99570f9b.chunk.js.LICENSE.txt": "/PortfolioKS/static/js/2.99570f9b.chunk.js.LICENSE.txt",
+    "static/media/Diagnosis.c40c9da7.png": "/PortfolioKS/static/media/Diagnosis.c40c9da7.png",
+    "static/media/Employee_Tracker_ScreenShot.3445e357.png": "/PortfolioKS/static/media/Employee_Tracker_ScreenShot.3445e357.png",
+    "static/media/GoogleBookSearch.e9412432.png": "/PortfolioKS/static/media/GoogleBookSearch.e9412432.png",
+    "static/media/KSPhoto.c11ff01c.jpeg": "/PortfolioKS/static/media/KSPhoto.c11ff01c.jpeg",
+    "static/media/KarrynSawResume.4150f509.pdf": "/PortfolioKS/static/media/KarrynSawResume.4150f509.pdf",
+    "static/media/SS-CodeQuiz.1b766510.png": "/PortfolioKS/static/media/SS-CodeQuiz.1b766510.png",
+    "static/media/SS-DayPlanner.9712f21b.png": "/PortfolioKS/static/media/SS-DayPlanner.9712f21b.png",
+    "static/media/SS-Eat-Da-Burger.9f54e40a.png": "/PortfolioKS/static/media/SS-Eat-Da-Burger.9f54e40a.png",
+    "static/media/SS-PasswordGenerator.bdf9e160.png": "/PortfolioKS/static/media/SS-PasswordGenerator.bdf9e160.png",
+    "static/media/SS-Project_1.dba55dc3.png": "/PortfolioKS/static/media/SS-Project_1.dba55dc3.png",
+    "static/media/SS-WeatherDashboard.7ad502d1.png": "/PortfolioKS/static/media/SS-WeatherDashboard.7ad502d1.png",
+    "static/media/SavedNotes.e760d1fb.png": "/PortfolioKS/static/media/SavedNotes.e760d1fb.png",
+    "static/media/basics.95270045.jpg": "/PortfolioKS/static/media/basics.95270045.jpg",
+    "static/media/drive.ac115aae.jpg": "/PortfolioKS/static/media/drive.ac115aae.jpg",
+    "static/media/macbookswirl.df0764e4.jpg": "/PortfolioKS/static/media/macbookswirl.df0764e4.jpg",
+    "static/media/teamwork2.cb28aa09.jpg": "/PortfolioKS/static/media/teamwork2.cb28aa09.jpg",
+    "static/media/wellme.0550c420.png": "/PortfolioKS/static/media/wellme.0550c420.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3bb05034.js",
+    "static/js/2.99570f9b.chunk.js",
+    "static/css/main.9a412d1c.chunk.css",
+    "static/js/main.5fbdf847.chunk.js"
+  ]
+}
