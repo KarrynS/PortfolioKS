@@ -1,0 +1,40 @@
+.introContainer {
+    margin-top: 30px;
+}
+
+.introColumn{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.introRow {
+    justify-content: center;
+    align-items: center; 
+    margin: auto;
+    text-align: center;
+}
+
+.img-thumbnail{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 8px double #04c2c9;
+}
+
+.imageHeading {
+    color: #e31b6d;
+    margin-top: 15px;
+    font-size: 20px;
+    font-weight: 200;
+}
+
+.imageBlurb {
+    margin-top: 10px;
+}
+
